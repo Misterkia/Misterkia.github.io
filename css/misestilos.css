@@ -51,6 +51,12 @@ font-family: 'geometos';
 
 } 
 
+.fuente3{ 
+
+font-family: 'geometos'; 
+	color: #ffffff;
+}
+
 .letrablanca{
 	color: #ffffff;
 	
@@ -96,6 +102,10 @@ h1 {
 .letrash:hover
 	{
 	color:#FFD8E6;
+}
+.letrashtwo:hover
+	{
+	color:#000000;
 }
 
 .letritas{
