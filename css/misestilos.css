@@ -23,6 +23,7 @@ src: url( "../fonts/OratorStd.ttf") format('truetype');
  
 
 
+
 @font-face{ 
 
 font-family: 'geometos'; 
@@ -343,6 +344,8 @@ h1 {
 .navbar-toggler-icon{
 	
 	background-image: url("../img/ICONMRKIA.ico");
+	width: 80px !important;
+    height:80px !important;
 }
 
 .letrasnegro{
