@@ -20,7 +20,10 @@ src: url( "../fonts/OratorStd.ttf") format('truetype');
 	
 	height:2rem;
 }
- 
+
+.top-buffer {
+    margin-top:3%;
+}
 
 
 
